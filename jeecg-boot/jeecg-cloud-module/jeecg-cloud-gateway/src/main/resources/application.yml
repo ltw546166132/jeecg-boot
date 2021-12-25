@@ -8,7 +8,7 @@ spring:
     sentinel:
       web-context-unify: false
       transport:
-        dashboard: localhost:8087
+        dashboard: www.qees.xyz:8858
       # 懒加载Sentinel Dashboard菜单
       eager: false
     gateway:
